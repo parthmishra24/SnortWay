@@ -48,7 +48,7 @@ Run the script and enter the domain to analyze:
 
 ## Reference
 
-This tool utilizes a methodology inspired by **@coffinxp**, who provided the core command structure for filtering and analyzing confidential data in PDFs. Please refer to his writeup for the commands used in the tool.
+This tool utilizes a methodology inspired by **@coffinxp**, who provided the core command structure for filtering and analyzing confidential data in PDFs.
 
 For a detailed explanation of the commands used in this tool, check out this article by coffinxp:
 https://infosecwriteups.com/unlock-the-full-potential-of-the-wayback-machine-for-bug-bounty-8b6f57e2637d
